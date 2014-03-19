@@ -12,5 +12,12 @@
     "desc":"A simple sample that demonstates plugins rendered at run time.",
     "render":"runtime",
     "config":"true"
+  },
+  {
+    "type":"logic_engine_module",
+    "name":"Logic Engine Module",
+    "desc":"Allows a site to embed modules from logic-engine.com",
+    "render":"runtime",
+    "config":"true"
   }
 ]
